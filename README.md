@@ -1,6 +1,5 @@
 
-# asdf-clusterawsadm [![Build](https://github.com/kahun/asdf-clusterawsadm/actions/workflows/main.yml/badge.svg)](https://github.com/kahun/asdf-clusterawsadm/actions/workflows/workflow.yml)
-
+# asdf-clusterawsadm [![Build](https://github.com/kahun/asdf-clusterawsadm/workflows/CI/badge.svg)](https://github.com/kahun/asdf-clusterawsadm/actions/workflows/workflow.yml)
 
 This repository contains clusterawsadm plugin for the asdf version manager.
 
